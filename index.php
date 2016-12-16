@@ -7,5 +7,5 @@
 <body>
 <h1> Hi, world !</h1>
 </body>
-<footer class="text-center"> FOOTER </footer>
+<footer class="text-center"> FOOTER 2 </footer>
 </html>
